@@ -18,7 +18,10 @@ hr {
     margin: 2rem 0rem;
 }
 
-
+h3{
+    text-align: center;
+    padding: 8rem;
+}
 .margin-md {
     margin: 2rem;
 }
@@ -42,8 +45,10 @@ hr {
     text-align: center;
 }
 .output{
-    padding: 1rem,1rem;
+    padding: 5rem
     margin: auto;
+    text-align: center;
+    font-weight: bolder;
 }
 button {
     background: var(--primary-btn-color);
